@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "tfc:food/onion"
+    },
+    "title": {
+      "translate": "advancements.cepaless.world.turnip.title"
+    },
+    "description": {
+      "translate": "advancements.cepaless.world.turnip.description"
+    }
+  },
+  "criteria": {
+    "turnip": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "items": [
+          {
+            "item": "tfc:food/onion"
+          }
+        ]
+      }
+    }
+  }
+}
