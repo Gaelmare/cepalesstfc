@@ -10,6 +10,7 @@
       "translate": "advancements.cepaless.world.turnip.description"
     }
   },
+  "background": "tfc:textures/blocks/stonetypes/dirt/andesite.png",
   "criteria": {
     "turnip": {
       "trigger": "minecraft:consume_item",
